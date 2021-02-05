@@ -1,6 +1,7 @@
 # 100_timers_arbejde_Pycharm
 Udskifted intellij med Pycharm
 
+Dette projekt blev lavet i forbindelse på første års opgave hvori vi skulle udvikle et spil i Java, Jeg valgte istedet at kombinere det med at selvære Python ved at udvikle dise spil
 
 
 
